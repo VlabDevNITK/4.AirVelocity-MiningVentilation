@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Pitot static tube is directly used for measuring _________",
+      "answers": {
+        "a": "Average air velocity across a cross sectional area",
+        "b": "Air velocity at a point",
+        "c": "Pressure at a point",
+        "d": "Average pressure"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "Inclined U tube manometer contain liquid known as",
+      "answers": {
+        "a": "water",
+        "b": "Oil",
+        "c": "Mercury",
+        "d": "Water-Mercury mixture"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "Pitot static tube contain _____________ concentric tube",
+      "answers": {
+        "a": "Two",
+        "b": "Three",
+        "c": "Four",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Inner tube is used to measure",
+      "answers": {
+        "a": "Total pressure",
+        "b": "Static pressure",
+        "c": "Velocity pressure",
+        "d": "Average pressure"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Outer tube is used to measure",
+      "answers": {
+        "a": "Total pressure",
+        "b": "Static pressure",
+        "c": "Velocity pressure",
+        "d": "Average pressure"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    }
+  ]
+}
